@@ -1,0 +1,39 @@
+Project Name : Serverless API (AWS Lambda)
+
+Objective : To create a serverless API using AWS Lambda and API Gateway without managing any servers.
+
+Services Used
+
+* AWS Lambda
+* Amazon API Gateway
+* CloudWatch Logs
+
+Procedure
+
+1. Created a Lambda Function.
+2. Wrote and deployed Python code.
+3. Configured API Gateway.
+4. Connected API Gateway with Lambda Function.
+5. Deployed the API.
+6. Tested the API endpoint using a browser.
+
+Architecture
+
+User Request
+|
+v
+API Gateway
+|
+v
+AWS Lambda
+|
+v
+Response
+
+Result
+
+Successfully created and deployed a serverless API using AWS Lambda and API Gateway. The API responded correctly to user requests.
+
+Conclusion
+
+AWS Lambda and API Gateway enable serverless application development without provisioning or managing servers.
